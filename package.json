@@ -11,9 +11,10 @@
   "contributors": [
     "Richard Herrera <rich@doctyper.com>",
     "Kevin Yue <yuezk001@gmail.com>",
-    "Roger Zurawicki <roger@krypton.io>"
+    "Roger Zurawicki <roger@krypton.io>",
+    "Roberto Manzella <zelphir@gmail.com>"
   ],
-  "homepage": "https://github.com/mantoni/eslint_d.js",
+  "homepage": "https://github.com/zelphir/eslint_d.js",
   "scripts": {
     "test": "eslint **/*.js"
   },
@@ -22,9 +23,9 @@
     "url": "https://github.com/mantoni/eslint_d.js.git"
   },
   "dependencies": {
-    "eslint": "^1.4.2",
-    "optionator": "^0.5.0",
-    "resolve": "^1.1.6"
+    "eslint": "^2.2.0",
+    "optionator": "^0.8.1",
+    "resolve": "^1.1.7"
   },
   "files": [
     "bin",
